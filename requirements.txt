@@ -1,0 +1,8 @@
+Flask==2.0.1
+bitstring==3.1.9
+Rust==0.1.1
+PyYAML==6.0
+yaml2==0.0.1
+psycopg2-binary==2.9.2
+SQLAlchemy==1.4.27
+requests==2.24.0
